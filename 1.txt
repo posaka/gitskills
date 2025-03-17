@@ -1,2 +1,2 @@
 from pull
-from push
+from pus
